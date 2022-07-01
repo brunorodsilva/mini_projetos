@@ -2,7 +2,7 @@
 
 ### Projetos pequenos para obtenção de novas habildades
 
-#### Download do projeto: <br/>
+#### Download dos projetos: <br/>
 <a href="https://github.com/brunorodsilva/mini_projetos/archive/refs/heads/main.zip"><img src="https://i.imgur.com/lgr58uU.png" width="50px"></a>
 
 ### Cards:
